@@ -3,10 +3,11 @@
   <br><br>
   <samp>
     Hi there :wave: <br>
-    I'm Mustafa Hastürk,  iOS developer <br>
+    I'm Mustafa Hastürk -  iOS developer <br>
     Currently 💼 at <a href="https://turkcell.com.tr">@Turkcell</a> Yaani :nazar_amulet: iOS browser project :tr:
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/muhasturk">Twitter</a>
-    <br>📫 Contact <a href="https://www.linkedin.com/in/muhasturk/">LinkedIn</a>
+    <br><br>🐦 - <a href="https://twitter.com/muhasturk"> Twitter</a>
+    <br>📫 - <a href="https://www.linkedin.com/in/muhasturk/">LinkedIn</a>
+    <br>✉️ - mh.io@yaani.com
   </samp>
 </p>
 
