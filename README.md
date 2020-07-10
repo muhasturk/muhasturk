@@ -4,7 +4,8 @@
   <samp>
     Hi there :wave: <br>
     I'm Mustafa Hastürk -  iOS developer <br>
-    Currently 💼 at <a href="https://turkcell.com.tr">@Turkcell</a> Yaani :nazar_amulet: iOS browser project :tr:
+    💼 Currently working at <a href="https://turkcell.com.tr">@Turkcell</a> Yaani :nazar_amulet: iOS browser project<br>
+    :house_with_garden: Live in Istanbul, Turkey :tr:
     <br><br>🐦 - <a href="https://twitter.com/muhasturk"> Twitter</a>
     <br>📫 - <a href="https://www.linkedin.com/in/muhasturk/">LinkedIn</a>
     <br>✉️ - mh.io@yaani.com
