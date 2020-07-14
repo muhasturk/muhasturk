@@ -1,3 +1,5 @@
+
+<br>
 <p>
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
@@ -6,10 +8,24 @@
     I'm Mustafa Hastürk -  iOS developer <br>
     💼 Currently working at <a href="https://turkcell.com.tr">@Turkcell</a> Yaani :nazar_amulet: iOS browser project<br>
     :house_with_garden: Live in Istanbul, Turkey :tr:
-    <br><br>🐦 - <a href="https://twitter.com/muhasturk"> Twitter</a>
-    <br>📫 - <a href="https://www.linkedin.com/in/muhasturk/">LinkedIn</a>
-    <br>✉️ - mh.io@yaani.com
+    <br><br>
+    💌 - mh.io@yaani.com
   </samp>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/muhasturk/">
+<img align="left" alt="Mustafa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/muhasturk">
+<img align="left" alt="Mustafa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/muhasturk/">
+<img align="left" alt="Mustafa's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/muhasturk/">
+<img align="left" alt="Mustafa's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 </p>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhasturk.muhasturk)
