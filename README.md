@@ -28,7 +28,6 @@
 </a>
 </p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhasturk.muhasturk)
 
 <details>
     <summary><b>:telescope: 2020 Goal</b></summary>
