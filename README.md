@@ -6,10 +6,10 @@
   <samp>
     Hi there :wave: <br>
     I'm Mustafa Hastürk -  iOS developer <br>
-    💼 Currently working at <a href="https://turkcell.com.tr">@Turkcell</a> Yaani :nazar_amulet: iOS browser project<br>
+    💼 Currently working at <a href="https://akbank.com">@Akbank</a> Juzdan :nazar_amulet: iOS project<br>
     :house_with_garden: Live in Istanbul, Turkey :tr:
     <br><br>
-    💌 - mh.io@yaani.com
+    💌 - mustafa[at]hasturk.dev
   </samp>
 </p>
 
