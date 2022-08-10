@@ -6,7 +6,7 @@
   <samp>
     Hi there :wave: <br>
     I'm Mustafa Hastürk -  iOS developer <br>
-    💼 Currently working at <a href="https://akbank.com">@Akbank</a> Juzdan :nazar_amulet: iOS project<br>
+    💼 Currently working at <a href="https://akbank.com">@Akbank</a> Juzdan :nazar_amulet: as iOS Application Architect<br>
     :house_with_garden: Live in Istanbul, Turkey :tr:
     <br><br>
     💌 - mustafa[at]hasturk.dev
