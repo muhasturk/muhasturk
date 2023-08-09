@@ -31,7 +31,7 @@
 <br><br>
 
 <details>
-    <summary><b>:telescope: 2022 Goal</b></summary>
+    <summary><b>:telescope: 2024 Goal</b></summary>
   <p>
     Something big and loudy<br>
     :fire: <a href="https://bmhmusic-app-node.azurewebsites.net/">BMH Music</a>
